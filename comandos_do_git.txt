@@ -1,0 +1,14 @@
+git config --local (altera somente para o repositório local)
+    EX: git config --local user.name "Vinicius Dias"
+
+git config --global (altera somente para o repositório global)
+
+Olhando o log dos commits:
+
+git log:
+    git log --oneline
+    git log -p
+    git log --pretty="format:%H"
+    git log --pretty="format:%h %s"
+
+Mais detalhes em: http://devhints.io/git-log 
