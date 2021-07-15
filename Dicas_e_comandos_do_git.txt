@@ -12,3 +12,5 @@ git log:
     git log --pretty="format:%h %s"
 
 Mais detalhes em: http://devhints.io/git-log 
+
+OBS: Nunca se commita um código que não funciona
